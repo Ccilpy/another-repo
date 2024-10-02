@@ -1,3 +1,4 @@
+REMOTE
 # another-repo
 
 j'écris quelques lignes
